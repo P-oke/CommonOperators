@@ -14,11 +14,11 @@ namespace CommonOperators
 
             Console.WriteLine(result);
 
-            int val = 6;
+            int num = 6;
             // val++;
-            val--;
+            num--;
             // val += 2;
-            Console.WriteLine(val);
+            Console.WriteLine(num);
 
 
 
