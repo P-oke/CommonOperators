@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\CommonOperators\bin\Debug\net5.0\CommonOperators.exe
+C:\Users\Hp\Desktop\CommonOperators\bin\Debug\net5.0\CommonOperators.deps.json
+C:\Users\Hp\Desktop\CommonOperators\bin\Debug\net5.0\CommonOperators.runtimeconfig.json
+C:\Users\Hp\Desktop\CommonOperators\bin\Debug\net5.0\CommonOperators.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\CommonOperators\bin\Debug\net5.0\CommonOperators.dll
+C:\Users\Hp\Desktop\CommonOperators\bin\Debug\net5.0\ref\CommonOperators.dll
+C:\Users\Hp\Desktop\CommonOperators\bin\Debug\net5.0\CommonOperators.pdb
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.AssemblyInfo.cs
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.dll
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\ref\CommonOperators.dll
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.pdb
+C:\Users\Hp\Desktop\CommonOperators\obj\Debug\net5.0\CommonOperators.genruntimeconfig.cache
